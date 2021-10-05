@@ -8,8 +8,13 @@ Root = 5
 Rootun sağında 7, solunda 3 bulunur.
 
 7nin sağında 8 bulunur, solunda 6 bulunur.
+
 3ün sağında 4 bulunur, solunda 2 bulunur.
+
 8in sağında 9 bulunur.
+
 2 nin solunda 1 bulunur.
+
 1in solunda 0 bulunur.
+
 
